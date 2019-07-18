@@ -794,3 +794,10 @@ Processing by PostsController#show as HTML
 Completed 200 OK in 19ms (Views: 13.9ms | ActiveRecord: 0.2ms)
 
 
+Started GET "/posts/new" for 71.200.83.226 at 2019-07-18 19:09:30 +0000
+Processing by PostsController#new as HTML
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 12ms (Views: 10.4ms | ActiveRecord: 0.0ms)
+
+
